@@ -35,5 +35,5 @@ Developed a web-based resume utilizing HTML and CSS, showcasing professional inf
 
 
 Feel free to reach out for collaborations, queries, or just to connect! 
-Email: [![Email](https://img.shields.io/badge/-Email-red)](mailto:simphiwembuli06@gmail.com)
+  [![Email](https://img.shields.io/badge/-Email-red)](mailto:simphiwembuli06@gmail.com)
 
