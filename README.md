@@ -4,6 +4,8 @@
 ## ABOUT ME ℹ️
 Welcome to my digital realm of coding adventures, where creativity meets functionality and innovation. I am a dedicated software developer passionate about crafting impeccable digital experiences and pushing the boundaries of web development.
 
+
+
 ## SKILLS 💪
 - Frontend Sorcery: 
   ![HTML](https://img.shields.io/badge/-HTML-orange) :diamond_shape_with_a_dot_inside:
@@ -16,6 +18,8 @@ Welcome to my digital realm of coding adventures, where creativity meets functio
 - Enchanting User Experiences: 
   ![UI/UX Design](https://img.shields.io/badge/-UI%2FUX%20Design-lightgrey) :artificial_satellite:
 
+  
+
 ## PROJECTS 💻
 
 ### Book-Connect App 📚
@@ -24,8 +28,11 @@ Crafted a seamless and user-friendly book-connect application, integrating respo
 ### Digital Resume 📃
 Developed a web-based resume utilizing HTML and CSS, showcasing professional information, work experience, education, skills, and achievements. Ensured a clean and professional layout, enabling easy accessibility and readability for potential employers. Included sections for introduction, work history, education, skills, and achievements, with a responsive design for diverse device compatibility.
 
-## LET'S CONNETC 🌐
+
+
+## LET'S CONNECT 🌐
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/Simphiwe06) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/simphiwe-mbuli-5004aa246)
 
-Feel free to reach out for collaborations, queries, or just to connect!
+
+Feel free to reach out for collaborations, queries, or just to connect! [🚀](mailto:simphiwembuli06@gmail.com)
 
