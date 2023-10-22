@@ -7,15 +7,15 @@ Welcome to my digital realm of coding adventures, where creativity meets functio
 
 ## Skills
 - Frontend Sorcery: 
-  ![HTML](https://example.com/html-logo.png) 
-  ![CSS](https://example.com/css-logo.png) 
-  ![JavaScript](https://example.com/js-logo.png) 
-  ![React.js](https://example.com/react-logo.png)
+  ![HTML](https://img.shields.io/badge/-HTML-orange) :diamond_shape_with_a_dot_inside:
+  ![CSS](https://img.shields.io/badge/-CSS-blue) :art:
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) :sparkles:
+  ![React.js](https://img.shields.io/badge/-React.js-61DAFB) :atom_symbol:
 - Mastering the Flow: 
-  ![Git](https://example.com/git-logo.png) 
-  ![npm](https://example.com/npm-logo.png)
+  ![Git](https://img.shields.io/badge/-Git-black) :octocat:
+  ![npm](https://img.shields.io/badge/-npm-red) :package:
 - Enchanting User Experiences: 
-  ![UI/UX Design](https://example.com/uiux-logo.png)
+  ![UI/UX Design](https://img.shields.io/badge/-UI%2FUX%20Design-lightgrey) :artificial_satellite:
 
 ## Projects
 
