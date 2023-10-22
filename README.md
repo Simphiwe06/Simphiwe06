@@ -1,4 +1,4 @@
-# <span style="color:darkmagenta">Hi, I'm Simphiwe Mbuli</span> 👋
+# <span style="color:#880088">Hi, I'm Simphiwe Mbuli</span> 👋
 
 
 ## ABOUT ME ℹ️
