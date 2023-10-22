@@ -34,5 +34,6 @@ Developed a web-based resume utilizing HTML and CSS, showcasing professional inf
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/Simphiwe06) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/simphiwe-mbuli-5004aa246)
 
 
-Feel free to reach out for collaborations, queries, or just to connect! [🚀](mailto:simphiwembuli06@gmail.com)
+Feel free to reach out for collaborations, queries, or just to connect! 
+Email: [![Email](https://img.shields.io/badge/-Email-red)](mailto:simphiwembuli06@gmail.com)
 
