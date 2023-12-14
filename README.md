@@ -22,7 +22,7 @@ Welcome to my digital realm of coding adventures, where creativity meets functio
 
 ## PROJECTS 💻
 
-### PodPlug - podcast app 
+### [PodPlug - podcast app] (https://github.com/Simphiwe06/SIMMBU262_FTOW2306_GroupA_SimphiweMbuli_FINAL_PROJECT.git)
 Developed [PodPlug](https://github.com/Simphiwe06/SIMMBU262_FTOW2306_GroupA_SimphiweMbuli_FINAL_PROJECT.git), an immersive podcast platform offering a user-friendly interface for effortless navigation. The platform ensures uninterrupted episode playback, a diverse podcast collection, and personalized favorites playlist. Utilize smart search and filtering options to discover podcasts across genres. PodPlug guarantees a responsive design for a consistent experience on various devices.
 
 ### Book-Connect App 📚
