@@ -25,10 +25,10 @@ Welcome to my digital realm of coding adventures, where creativity meets functio
 ### [PodPlug](https://github.com/Simphiwe06/SIMMBU262_FTOW2306_GroupA_SimphiweMbuli_FINAL_PROJECT.git) 
 Developed an immersive podcast platform offering a user-friendly interface for effortless navigation. The platform ensures uninterrupted episode playback, a diverse podcast collection, and personalized favorites playlist. Utilize smart search and filtering options to discover podcasts across genres. PodPlug guarantees a responsive design for a consistent experience on various devices.
 
-### Book-Connect 📚
+### [Book-Connect](https://github.com/Simphiwe06/SIMMBU262_FTOW2306_GroupA_SimphiweMbuli_DWA8.git) 📚
 Crafted a seamless and user-friendly book-connect application, integrating responsive design, navigation, and interactive features. Implemented a robust search functionality, allowing users to find books based on various criteria like title, author, genre. Maintained clear and up-to-date documentation for the codebase, APIs, and any third-party integrations.
 
-### Tally Count  📃
+### [Tally Count](https://github.com/Simphiwe06/SIMMBU262_FTOW2306_GroupA_SimphiweMbuli_DWA10.git) 
 Created a minimalist web application dedicated to serving as a user-friendly tally counter. This straightforward tool allows users to effortlessly manipulate the counter with the click of buttons—increment, decrement, and reset to zero. Built with HTML, CSS, and JavaScript, Tally Count App ensures a seamless experience for quick and easy counting tasks.
 
 
